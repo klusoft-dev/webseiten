@@ -1,0 +1,21 @@
+{
+    "name": "klusoft-dev/webseiten",
+    "description": "Webprojekte auf MVC-Basis",
+    "type": "project",
+    "require": {
+        "php": "^8.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "KlusoftDev\\Webseiten\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "klusoft",
+            "email": "klusoft@kluhil.de"
+        }
+    ],
+    "minimum-stability": "stable"
+}
